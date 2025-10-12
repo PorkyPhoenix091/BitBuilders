@@ -1,41 +1,26 @@
-# IDEA: Ridurre lo spreco alimentare tra studenti fuori sede
+# Progetto HCI: Ricerca sulla Prevenzione dello Spreco Alimentare
 
-## Problema
-Uno dei problemi principali che affrontano gli studenti universitari fuori sede è lo **spreco alimentare**.  
-Vivendo spesso da soli, in appartamenti condivisi o in residenze studentesche, capita che acquistino quantità di cibo eccessive rispetto ai propri bisogni o che, per mancanza di tempo e organizzazione, non riescano a consumarle.  
+## 1. L'Idea del Progetto
 
-Questo porta a buttare via alimenti ancora commestibili, con un impatto negativo sia dal punto di vista **economico** sia **ambientale**.
+Questo progetto nasce come un'attività di ricerca nell'ambito del corso di Human-Computer Interaction. L'idea è di investigare il fenomeno dello **spreco alimentare domestico**, con un'attenzione particolare ai contesti di convivenza, come quelli abitati da studenti universitari e giovani lavoratori.
 
----
+## 2. Il Contesto: Un Problema Globale
 
-## Utenti
-I destinatari principali sono gli **studenti universitari fuori sede**, in particolare quelli che vivono in città lontane dalla propria famiglia e devono gestire autonomamente la spesa e i pasti.  
+Lo spreco alimentare è un problema di scala mondiale con profonde implicazioni ambientali ed economiche. Dati delle Nazioni Unite evidenziano che ogni giorno viene sprecato oltre **1 miliardo di pasti**, e una porzione significativa di questo spreco avviene proprio tra le mura domestiche.
 
-Caratteristiche:
-- Budget limitato
-- Cucina irregolare
-- Pianificazione degli acquisti non sempre efficiente  
+Partendo da questa consapevolezza, il nostro interesse è scendere dal livello globale a quello locale e quotidiano.
 
-La piattaforma è pensata anche per:
-- Studenti pendolari
-- Persone che frequentano l’università in generale
+## 3. Il Nostro Focus di Ricerca
 
----
+L'obiettivo di questo progetto non è progettare una soluzione, ma **fare ricerca per comprendere in profondità le cause che generano lo spreco**.
 
-## Missione
-L’obiettivo è **aiutare gli studenti a condividere in modo sicuro e responsabile il cibo in eccesso**, riducendo lo spreco e favorendo la creazione di una comunità solidale.  
+Vogliamo analizzare e mappare i comportamenti, le abitudini e le dinamiche (individuali e di gruppo) che innescano il processo che porta a buttare via il cibo. La nostra indagine si concentra sul rispondere a due domande fondamentali:
 
-### Funzionalità previste:
-- ✅ **Regole chiare di igiene e sicurezza**, per garantire che gli alimenti condivisi siano in buone condizioni.  
-- ✅ **Meccanismo di scambio basato su crediti** invece che su denaro, per valorizzare i contributi e mantenere il progetto accessibile.  
-- ✅ **Profilo utente e reputazione**, con storico degli scambi e sistema di feedback (stelline/commenti) per costruire fiducia e responsabilità.  
+1.  **Quali sono i passi e i processi che portano allo spreco alimentare in un contesto di convivenza?**
+2.  **Come e dove è possibile intervenire per interrompere o prevenire questi processi?**
 
----
+Attraverso l'analisi di questi aspetti, puntiamo a identificare i punti critici e le reali esigenze degli utenti, che potrebbero in futuro guidare lo sviluppo di soluzioni efficaci.
 
-## Conclusione
-Il progetto punta a unire:
-- 🌱 **Sostenibilità**  
-- 💰 **Risparmio**  
-- 🤝 **Socializzazione**  
+## 4. Utenti di Riferimento per la Ricerca
 
-offrendo una soluzione pratica e concreta a un’esigenza quotidiana della vita universitaria.
+Il nostro target di riferimento per questa fase di ricerca sono gli **studenti universitari fuori sede** e i **giovani lavoratori** che vivono in appartamenti condivisi, in quanto rappresentano un campione ideale per osservare le dinamiche di gestione alimentare in un contesto non familiare e con risorse spesso limitate.
