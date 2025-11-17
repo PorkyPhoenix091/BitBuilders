@@ -214,6 +214,7 @@ a:hover {
    SEZIONE 2: PROGETTO
    ================================================ */
 
+/* TEMPORANEAMENTE NASCOSTA
 #progetto {
     padding: 100px 0;
     text-align: center;
@@ -230,6 +231,7 @@ a:hover {
     line-height: 1.7;
     color: #545454;
 }
+*/
 
 /* ================================================
    SEZIONE 3: TIMELINE
@@ -328,7 +330,7 @@ a:hover {
 }
 
 .timeline-link {
-    display: inline-block;
+    display: block;
     margin-top: 10px;
     font-weight: 600;
     font-size: 0.95rem;
@@ -384,10 +386,11 @@ a:hover {
 .member-photo {
     width: 120px;
     height: 120px;
-    background: linear-gradient(135deg, #708a58 0%, #2d4f2b 100%);
     border-radius: 50%;
     margin: 0 auto 25px;
     border: 4px solid rgba(45, 79, 43, 0.1);
+    object-fit: cover;
+    display: block;
 }
 
 .team-member-card h3 {
